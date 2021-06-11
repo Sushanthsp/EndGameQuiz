@@ -5,8 +5,8 @@ let score = 0 ;
 
 var highScore = [
    {
-      name  : 'Navaneeth',
-         score : 12
+      name  : 'Chethan',
+         score : 13
    }
 ] 
 
