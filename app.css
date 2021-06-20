@@ -40,12 +40,13 @@ footer
 {
     padding: 2rem;
     background-color: var(--background-color);
+    position: fixed;
+    bottom: 0;
 }
 
 .about
 {
     text-align: center;
     font-size: larger;
-    position: fixed;
-    bottom: 0;
+    
 }
