@@ -1,0 +1,46 @@
+body
+{
+    margin: 0;
+    font-family:fantasy;
+}
+
+:root
+{
+    --background-color: aqua;
+     
+}
+
+nav
+{
+    background-color: var(--background-color);
+    padding: 2rem;
+}
+
+.nav-pills
+{
+    text-align: center;
+    font-size: larger;
+}
+
+h1
+{
+    margin: 0 2rem;
+}
+
+p
+{
+    margin-bottom: 1rem;
+}
+
+footer
+{
+    background-color: var(--background-color);
+}
+
+.about
+{
+    text-align: center;
+    font-size: larger;
+    position: fixed;
+    bottom: 0;
+}
